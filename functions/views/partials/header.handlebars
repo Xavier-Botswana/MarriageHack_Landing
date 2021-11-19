@@ -1,0 +1,122 @@
+<!-- start header -->
+<header id='top-bar' class='top-bar top-bar--style-1'>
+  <div
+    class='top-bar__bg'
+    style='background-color: #24292c;background-image: url(img/about/header.jpg) no-repeat; background-position: center;
+            background-size: cover;'
+  ></div>
+
+  <div class='container-fluid'>
+    <div class='row align-items-center justify-content-between no-gutters'>
+      <a class='top-bar__logo site-logo' href='/'>
+        <img class='img-fluid' src='img/site_logo.png' alt='demo' />
+      </a>
+
+      <a
+        id='top-bar__navigation-toggler'
+        class='top-bar__navigation-toggler top-bar__navigation-toggler--light'
+        href='javascript:void(0);'
+      >
+        <span></span>
+      </a>
+
+      <div id='top-bar__inner' class='top-bar__inner'>
+        <div>
+          <nav
+            id='top-bar__navigation'
+            class='top-bar__navigation navigation'
+            role='navigation'
+          >
+            <ul>
+              <li class='{{#if active_home}}active{{/if}}'>
+                <a href='/'>
+                  Home
+                </a>
+              </li>
+
+              <li class='{{#if active_about}}active{{/if}}'>
+                <a href='/about'>
+                  About
+                </a>
+              </li>
+
+              <li class='has-submenu {{#if active_services}}active{{/if}}'>
+                <a href='javascript:void(0);'>
+                  Services
+                </a>
+
+                <ul class='submenu'>
+                  
+                  <li>
+                    <a href='/fraud-alert'>
+                      Report
+                    </a>
+                  </li>
+                  <li>
+                    <a href='/search-Members'>
+                      Search Members
+                    </a>
+                  </li>
+                  <li>
+                    <a href='/faqs'>
+                      FAQs
+                    </a>
+                  </li>
+                   <li>
+                    <a href='/register'>
+                      Register
+                    </a>
+                  </li>
+                  <li>
+                    <a href='https://reibbwportal.com'>
+                      Members Corner
+                    </a>
+                  </li>
+
+                </ul>
+              </li>
+
+              <!--
+              <li class='{{#if active_members_corner}}active{{/if}}'>
+                <a href='/members-corner'>
+                  Members Corner
+                </a>
+              </li>
+                -->
+
+              
+
+              {{!-- <li class=''>
+                <a href="#">
+                  Property Search
+                </a>
+              </li> --}}
+
+              <li class='{{#if active_contacts}}active{{/if}}'>
+                <a href='/contacts'>
+                  Contact Us
+                </a>
+              </li>
+                 <li class='{{#if active_news}}active{{/if}}'>
+                <a href='/news'>
+                News
+                </a>
+              </li>
+
+              <li class='li-btn'>
+                <a
+                  class='custom-btn custom-btn--small custom-btn--style-4'
+                  href='/membership'
+                >
+                  APPLY NOW!
+                </a>
+              </li>
+
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<!-- end header -->

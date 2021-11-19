@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+
+<head>
+
+	  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8Q8C7HY66B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8Q8C7HY66B');
+</script>
+	<title>Listings | Real Estate Institute of Botswana</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<meta name="viewport"
+		content="user-scalable=no, width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, minimal-ui" />
+
+	<meta name="theme-color" content="#FCDB5A" />
+	<meta name="msapplication-navbutton-color" content="#FCDB5A" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="#FCDB5A" />
+
+	<!-- Favicons
+		================================================== -->
+	<link rel="shortcut icon" href="img/favicon.ico">
+	<link rel="apple-touch-icon" href="img/apple-touch-icon.html">
+	<link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.html">
+	<link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.html">
+
+	<!-- Critical styles
+		================================================== -->
+	<link rel="stylesheet" href="css/critical.min.css" type="text/css">
+
+	<!-- Load google font
+		================================================== -->
+	<script type="text/javascript">
+		WebFontConfig = {
+			google: { families: ['Open+Sans:300,400,500,600,700,800', 'Raleway:100,400,400i,500,500i,700,700i,900'] }
+		};
+		(function () {
+			var wf = document.createElement('script');
+			wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+			wf.type = 'text/javascript';
+			wf.async = 'true';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(wf, s);
+		})();
+	</script>
+
+	<!-- Load other scripts
+		================================================== -->
+	<script type="text/javascript">
+		var _html = document.documentElement,
+			isTouch = (('ontouchstart' in _html) || (navigator.msMaxTouchPoints > 0) || (navigator.maxTouchPoints));
+
+		_html.className = _html.className.replace("no-js", "js");
+		_html.classList.add(isTouch ? "touch" : "no-touch");
+	</script>
+	<script type="text/javascript" src="js/device.min.js"></script>
+</head>
+
+<body class="woocommerce-page catalog-page">
+	<div id="app">
+
+		{{> header active_services=true }}
+
+		<!-- start hero -->
+		<div id="hero" class="jarallax" data-speed="0.7" data-img-position="50% 80%"
+			style="background:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.1)), url(img/homepreview.jpg);color: rgb(255, 255, 255);">
+			<div class="container">
+				<div class="row">
+					<div class="col-12 col-md-7">
+						<h1 class="__title" style="margin-top: 10%;"><span>View</span>Property </h1>
+
+						<p>
+							Gorgeous and nearly perfect houses will stun you with its modern and dazzling interior
+							finishes.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- end hero -->
+
+		<!-- start main -->
+		<main role="main">
+			<!-- Common styles
+				================================================== -->
+			<link rel="stylesheet" href="css/style.min.css" type="text/css">
+
+			<!-- Load lazyLoad scripts
+				================================================== -->
+			<script>
+				(function (w, d) {
+					var m = d.getElementsByTagName('main')[0],
+						s = d.createElement("script"),
+						v = !("IntersectionObserver" in w) ? "8.17.0" : "10.19.0",
+						o = {
+							elements_selector: ".lazy",
+							data_src: 'src',
+							data_srcset: 'srcset',
+							threshold: 500,
+							callback_enter: function (element) {
+
+							},
+							callback_load: function (element) {
+								element.removeAttribute('data-src')
+
+								oTimeout = setTimeout(function () {
+									clearTimeout(oTimeout);
+
+									AOS.refresh();
+								}, 1000);
+							},
+							callback_set: function (element) {
+
+							},
+							callback_error: function (element) {
+								element.src = "https://placeholdit.imgix.net/~text?txtsize=21&amp;txt=Image%20not%20load&amp;w=200&amp;h=200";
+							}
+						};
+					s.type = 'text/javascript';
+					s.async = true; // This includes the script as async. See the "recipes" section for more information about async loading of LazyLoad.
+					s.src = "https://cdn.jsdelivr.net/npm/vanilla-lazyload@" + v + "/dist/lazyload.min.js";
+					m.appendChild(s);
+					// m.insertBefore(s, m.firstChild);
+					w.lazyLoadOptions = o;
+				}(window, document));
+			</script>
+
+			<div class="container" style="padding-top: 8%;">
+				<div class="row">
+					<div class="col-12 col-md-12 col-lg-12">
+						<!-- start Image single -->
+						<div class="product-single">
+							<div class="row">
+
+
+								<div class="col-12 col-lg-12">
+									<div class="__bg">
+										<style>
+											* {
+												box-sizing: border-box
+											}
+
+											body {
+												font-family: Verdana, sans-serif;
+												margin: 0
+											}
+
+											.mySlides {
+												display: none
+											}
+
+											img {
+												vertical-align: middle;
+											}
+
+											/* Slideshow container */
+											.slideshow-container {
+												max-width: 1000px;
+												position: relative;
+												margin: auto;
+											}
+
+											/* Next & previous buttons */
+											.prev,
+											.next {
+												cursor: pointer;
+												position: absolute;
+												top: 50%;
+												width: auto;
+												padding: 16px;
+												margin-top: -22px;
+												color: white;
+												font-weight: bold;
+												font-size: 18px;
+												transition: 0.6s ease;
+												border-radius: 0 3px 3px 0;
+												user-select: none;
+											}
+
+											/* Position the "next button" to the right */
+											.next {
+												right: 0;
+												border-radius: 3px 0 0 3px;
+											}
+
+											/* On hover, add a black background color with a little bit see-through */
+											.prev:hover,
+											.next:hover {
+												background-color: rgba(0, 0, 0, 0.8);
+											}
+
+											/* Caption text */
+											.text {
+												color: #f2f2f2;
+												font-size: 15px;
+												padding: 8px 12px;
+												position: absolute;
+												bottom: 8px;
+												width: 100%;
+												text-align: center;
+											}
+
+											/* Number text (1/3 etc) */
+											.numbertext {
+												color: #f2f2f2;
+												font-size: 12px;
+												padding: 8px 12px;
+												position: absolute;
+												top: 0;
+											}
+
+											/* The dots/bullets/indicators */
+											.dot {
+												cursor: pointer;
+												height: 15px;
+												width: 15px;
+												margin: 0 2px;
+												background-color: #bbb;
+												border-radius: 50%;
+												display: inline-block;
+												transition: background-color 0.6s ease;
+											}
+
+
+
+											/* Fading animation */
+											.fade {
+												-webkit-animation-name: fade;
+												-webkit-animation-duration: 1.5s;
+												animation-name: fade;
+												animation-duration: 1.5s;
+											}
+
+											@-webkit-keyframes fade {
+												from {
+													opacity: .4
+												}
+
+												to {
+													opacity: 1
+												}
+											}
+
+											@keyframes fade {
+												from {
+													opacity: .4
+												}
+
+												to {
+													opacity: 1
+												}
+											}
+
+											/* On smaller screens, decrease text size */
+											@media only screen and (max-width: 300px) {
+
+												.prev,
+												.next,
+												.text {
+													font-size: 11px
+												}
+											}
+										</style>
+										</head>
+
+										<body>
+
+											<div class="slideshow-container">
+
+												{{#each property.imageUrl}}
+
+													<div class="mySlides fade">
+														<div class="numbertext"></div>
+														<img src="{{this}}"
+															width="100%"  height="622px">
+													</div>
+
+												{{/each}}
+
+												<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+												<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+											</div>
+											<br>
+
+											<div style="text-align:center">
+
+												{{#each property.imageUrl}}
+
+													<span class="dot" onclick="currentSlide({{inc @index}})"></span>
+
+												{{/each}}
+
+												
+
+											</div>
+
+											<script>
+												var slideIndex = 1;
+												showSlides(slideIndex);
+
+												function plusSlides(n) {
+													showSlides(slideIndex += n);
+												}
+
+												function currentSlide(n) {
+													showSlides(slideIndex = n);
+												}
+
+												function showSlides(n) {
+													var i;
+													var slides = document.getElementsByClassName("mySlides");
+													var dots = document.getElementsByClassName("dot");
+													if (n > slides.length) { slideIndex = 1 }
+													if (n < 1) { slideIndex = slides.length }
+													for (i = 0; i < slides.length; i++) {
+														slides[i].style.display = "none";
+													}
+													for (i = 0; i < dots.length; i++) {
+														dots[i].className = dots[i].className.replace(" active", "");
+													}
+													slides[slideIndex - 1].style.display = "block";
+													dots[slideIndex - 1].className += " active";
+												}
+											</script>
+
+									</div>
+								</div>
+
+
+
+								<div class="col-12">
+									<div class="spacer py-5 py-md-9"></div>
+
+									<!-- start tab -->
+									<div class="tab-container">
+										<nav class="tab-nav">
+											<a href="#" class="active">Description</a>
+											<a href="#">Contact Agent</a>
+										</nav>
+
+										<div class="tab-content">
+											<div class="tab-content__item is-visible">
+												<h4 class="__name">Residential Property at  {{property.location}}</h4>
+												
+
+												
+
+												<br />
+
+												<div class="content-container">
+
+
+
+
+													<p style="text-align: justify;">
+														{{property.description}}
+													</p>
+
+
+
+
+												</div>
+
+												<div class="description-table"
+													style="max-width: 350px; padding-top: 5px;">
+													<table>
+														<tbody>
+																<tr>
+																<td>Listing</td>
+																<td>{{property.listing}}</td>
+															</tr>
+															<tr>
+																<td>Price</td>
+																<td>{{property.price}}</td>
+															</tr>
+															<tr>
+																<td>Location</td>
+																<td>{{property.location}}</td>
+															</tr>
+															<tr>
+																<td>Area</td>
+																<td>860 sqm</td>
+															</tr>
+															<!--
+																	<tr>
+																<td>Beds</td>
+																<td>8</td>
+															</tr>
+															<tr>
+																<td>Baths</td>
+																<td>1</td>
+															</tr>
+
+															<tr>
+																<td>Garages</td>
+																<td>1</td>
+															</tr>
+															 -->
+															
+														</tbody>
+													</table>
+												</div>
+											</div>
+
+
+
+											<div class="tab-content__item">
+												<!-- start comments list -->
+												<ul class="comments-list">
+													<li class="comment">
+														<table>
+															<tbody>
+																<tr>
+																	<td>
+																		<div class="d-none d-lg-block">
+
+
+																		</div>
+																	</td>
+
+																	<td width="100%">
+																		<time class="comment__date-post">April 12,
+																			2017</time>
+
+																		<div
+																			class="d-flex align-items-center mb-3 mb-lg-0">
+																			<div class="d-block d-lg-none">
+
+																				<div class="comment__author-img">
+																					<img class="img-fluid lazy"
+																						width="70" src="img/blank.gif"
+																						data-src="img/avatar.jpg"
+																						alt="demo">
+																				</div>
+
+																			</div>
+
+																			<span class="comment__author-name">{{property.contactPerson}}</span>
+
+
+																		</div>
+
+
+																	</td>
+																</tr>
+
+																<tr>
+																	<td></td>
+																	<td>
+																		
+
+																		<div class="company-contacts  text-center">
+																			<div class="__inner">
+																				<div class="row justify-content-around">
+																					
+
+																					<!-- start item -->
+																					<div
+																						class="col-12 col-md-4 col-lg-3">
+																						<div class="__item">
+																							<i
+																								class="__ico fontello-phone"></i>
+
+																							<h4 class="__title">phone
+																							</h4>
+
+																							<p>
+																								(+267) {{property.contactNumber}}
+																							</p>
+																						</div>
+																					</div>
+																					<!-- end item -->
+
+																					
+																				</div>
+																			</div>
+																		</div>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</li>
+
+													<li class="comment">
+														<table>
+															<tbody>
+																<tr>
+
+
+
+																</tr>
+
+
+															</tbody>
+														</table>
+													</li>
+												</ul>
+												<!-- end comments list -->
+
+
+											</div>
+										</div>
+									</div>
+									<!-- end tab -->
+
+									<div class="spacer py-5 py-md-9"></div>
+								</div>
+							</div>
+						</div>
+						<!-- start Image single -->
+
+					</div>
+
+
+
+
+				</div>
+			</div>
+
+
+		</main>
+		<!-- end main -->
+
+		{{> footer }}
+
+	</div>
+
+	<div id="btn-to-top-wrap">
+		<a id="btn-to-top" class="circled" href="javascript:void(0);" data-visible-offset="800"></a>
+	</div>
+
+	<script src="../../../ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/jquery-2.2.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="js/main.min.js"></script>
+	<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+	<script>
+			(function (b, o, i, l, e, r) {
+				b.GoogleAnalyticsObject = l; b[l] || (b[l] =
+					function () { (b[l].q = b[l].q || []).push(arguments) }); b[l].l = +new Date;
+				e = o.createElement(i); r = o.getElementsByTagName(i)[0];
+				e.src = '../../../www.google-analytics.com/analytics.js';
+				r.parentNode.insertBefore(e, r)
+			}(window, document, 'script', 'ga'));
+		ga('create', 'UA-XXXXX-X', 'auto'); ga('send', 'pageview');
+	</script>
+</body>
+
+</html>

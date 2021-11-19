@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+
+<!-- Mirrored from demo.artureanec.com/html/agro/checkout.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 31 Aug 2020 12:45:46 GMT -->
+
+<head>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8Q8C7HY66B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8Q8C7HY66B');
+</script>
+    <title>Members Application |  Real Estate Institute of Botswana</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="user-scalable=no, width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, minimal-ui" />
+
+    <meta name="theme-color" content="#FCDB5A" />
+    <meta name="msapplication-navbutton-color" content="#FCDB5A" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="#FCDB5A" />
+
+    <!-- Favicons
+		================================================== -->
+    <link rel="shortcut icon" href="img/favicon.png">
+    <link rel="apple-touch-icon" href="img/apple-touch-icon-57-precomposed.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
+
+    <!-- Critical styles
+		================================================== -->
+    <link rel="stylesheet" href="css/critical.min.css" type="text/css">
+
+    <!-- Load google font
+		================================================== -->
+    <script type="text/javascript">
+        WebFontConfig = {
+            google: {
+                families: ['Open+Sans:300,400,500,600,700,800', 'Raleway:100,400,400i,500,500i,700,700i,900']
+            }
+        };
+        (function() {
+            var wf = document.createElement('script');
+            wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+            wf.type = 'text/javascript';
+            wf.async = 'true';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(wf, s);
+        })();
+    </script>
+
+    <!-- Load other scripts
+		================================================== -->
+    <script type="text/javascript">
+        var _html = document.documentElement,
+            isTouch = (('ontouchstart' in _html) || (navigator.msMaxTouchPoints > 0) || (navigator.maxTouchPoints));
+
+        _html.className = _html.className.replace("no-js", "js");
+        _html.classList.add(isTouch ? "touch" : "no-touch");
+    </script>
+    <script type="text/javascript" src="js/device.min.js"></script>
+    <script src="https://maps.google.com/maps/api/js?key=AIzaSyDzXAl2vai2hjVvEdvWMmTT5Wa2z4LpWII" type="text/javascript"></script>
+</head>
+
+<body class="woocommerce-page checkout-page">
+    <div id="app">
+
+  
+      {{> header }}
+
+        <!-- start hero -->
+        <div id="hero" class="jarallax" data-speed="0.7" data-img-position="50% 40%" style="background-image: url(img/member.jpg);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-lg-7" style="margin-top: 50px;">
+                        <h1 class="__title"> Membership <span>Application</span></h1>
+
+
+                        <p>
+                            Real Estate Institute of Botswana (REIB)
+                             ke mokhatlo o ngolisitsoeng ka tlase ho Societies ACT ea Botswana. Ke sehlopha se 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end hero -->
+
+        <!-- start main -->
+        <main role="main">
+            <!-- Common styles
+				================================================== -->
+            <link rel="stylesheet" href="css/style.min.css" type="text/css">
+            <link rel="stylesheet" href="style1.css" type="text/css">
+            <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+            <!-- Load lazyLoad scripts
+				================================================== -->
+            <script>
+                (function(w, d) {
+                    var m = d.getElementsByTagName('main')[0],
+                        s = d.createElement("script"),
+                        v = !("IntersectionObserver" in w) ? "8.17.0" : "10.19.0",
+                        o = {
+                            elements_selector: ".lazy",
+                            data_src: 'src',
+                            data_srcset: 'srcset',
+                            threshold: 500,
+                            callback_enter: function(element) {
+
+                            },
+                            callback_load: function(element) {
+                                element.removeAttribute('data-src')
+
+                                oTimeout = setTimeout(function() {
+                                    clearTimeout(oTimeout);
+
+                                    AOS.refresh();
+                                }, 1000);
+                            },
+                            callback_set: function(element) {
+
+                            },
+                            callback_error: function(element) {
+                                element.src = "https://placeholdit.imgix.net/~text?txtsize=21&amp;txt=Image%20not%20load&amp;w=200&amp;h=200";
+                            }
+                        };
+                    s.type = 'text/javascript';
+                    s.async = true; // This includes the script as async. See the "recipes" section for more information about async loading of LazyLoad.
+                    s.src = "https://cdn.jsdelivr.net/npm/vanilla-lazyload@" + v + "/dist/lazyload.min.js";
+                    m.appendChild(s);
+                    // m.insertBefore(s, m.firstChild);
+                    w.lazyLoadOptions = o;
+                }(window, document));
+            </script>
+
+<div class="container">
+<h2 class="__title" style="margin-top: 5%;">Apply <span>Today</span></h2>
+
+    <div class="content">
+      <form action="/apply-probationer" method="POST" enctype="multipart/form-data">
+        <div class="user-details">
+
+          <div class="input-box">
+            <span class="details">Title</span>
+            <select id="select" name="title">
+              <option value="">Select title...</option>
+              <option value="Dr">Dr</option>
+              <option value="Mr">Mr</option>
+              <option value="Mrs">Mrs</option>
+              <option value="Ms">Ms</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+
+          <div class="input-box">
+            <span class="details">FullName</span>
+            <input type="text" value="" name="name" placeholder="Enter your name" required>
+          </div>
+
+
+          <div class="input-box">
+            <span class="details">Surname</span>
+            <input type="text" value="" name="surname" placeholder="Enter your surname" required>
+          </div>
+
+          <div class="input-box">
+            <span class="details">Gender</span>
+            <select id="select" name="gender">
+              <option value="">Select gender...</option>
+              <option value="Male">Male</option>
+              <option value="Female">Female</option>
+              <option value="None">Prefer not to Say</option>
+            </select>
+          </div>
+
+          <div class="input-box">
+            <span class="details">Date of Birth</span>
+            <input type="date" name="dob" value="" required>
+          </div>
+         
+          <div class="input-box">
+          </div>
+
+
+          <div style="width: 100%;">
+            <div>Contact Details</div>
+          </div>
+
+          <div class="input-box">
+            <span class="details">Preffered</span>
+            <select id="select" name="preferredContact">
+              <option value="Business">Business</option>
+              <option value="Personal">Personal</option>
+            </select>
+          </div>
+
+          <div class="input-box">
+            <span class="details">Organization</span>
+            <input type="text" value="" name="organization" placeholder="Enter Organization name" required>
+          </div>
+
+          <div class="input-box">
+            <span class="details">Phone Number</span>
+            <input type="text"  value="" name="phoneNumber" placeholder="Enter  phone number" required>
+          </div>
+
+          <div class="input-box">
+            <span class="details">Email</span>
+            <input type="text" value="" name="email" placeholder="Enter  email" required>
+          </div>
+
+          <div class="input-box">
+            <span class="details">Postal Address</span>
+            <input type="text" value="" name="postalAddress" placeholder="Enter address" required>
+          </div>
+          <div class="input-box">
+            <span class="details">Fax</span>
+            <input type="text" value=""  name="fax" placeholder="Enter  Fax number" required>
+          </div>
+        
+          <div style="width: 100%;">
+            <div>Membership</div>
+          </div>
+          <div class="input-box">
+            <span class="details">Status</span>
+            <select id="select" name="membershipStatus">
+              <option value="">Select membership status...</option>
+              <option value="Student Member">Student Member</option>
+              <option value="Probationer Estate Agency">Probationer Estate Agency</option>
+              <option value="Probationer Auctioneering">Probationer Auctioneering</option>
+              <option value="Probationer Valuation">Probationer Valuation</option>
+              <option value="Probationer Property Manager">Probationer Property Manager</option>
+              <option value="Full Member Eststate Agency">Full Member Eststate Agency</option>
+              <option value="Full Member Auctioneering">Full Member Auctioneering</option>
+              <option value="Full Member Valutaion">Full Member Valutaion</option>
+              <option value="Full Member Property Manager">Full Member Property Manager</option>
+            </select>
+          </div>
+          
+          <div class="input-box">
+            <span class="details">Date Admitted</span>
+            <input type="date" name="dateAdmitted" value="" required>
+          </div>
+          <div class="input-box">
+
+          </div>
+
+          <div style="width: 100%;">
+            <div>Membership Application</div>
+          </div>
+          <div class="input-box">
+            <span class="details">Membership category Applied For?</span>
+            <select id="select" name="membershipCategory">
+              <option value="">Select Membership Category...</option>
+              <option value="Estate Agency">Estate Agency</option>
+              <option value="Auctioneering">Auctioneering</option>
+              <option value="Property Management">Property Management</option>
+              <option value="Valuation">Valuation</option>
+            </select>
+          </div>
+          <div class="input-box">
+            <span class="details">Choose Exam Date</span>
+            <select id="select" name="examDate">
+              <option value="">Select exam date...</option>
+              <option value="May">May</option>
+              <option value="November">November</option>
+            </select>
+          </div>
+
+
+          <div class="input-box">
+             <span class="details">
+              <span class="details">
+                  <ul>
+                      <strong>Attach these documents into one PDF file:</strong><br/>
+                      <li>- Transcripts & Certificates</li>
+                      <li>- Proof of payment of Membership Application Fee (P1000)</li>
+                      <li>- Letter from mentor</li>
+                      <li>- Log book</li>
+                  </ul>
+                  </span>
+            <label class="upload" for="upload-doc">Browse..</label>
+            <input class="details" name="documentLink" type="file" id="upload-doc" required>
+          </div>
+
+
+          <div style="width: 100%;">
+            <div>Qualifications</div>
+          </div>
+          <div style="width: 100%;">
+            <div class="input-box">
+              <select id="select" name="qualifications" required>
+                <option value="">Select Qualification</option>
+                <option value="Non Real Estate Qualifications">Non Real Estate Qualifications</option>
+                <option value="Real Estate Qualifications">Real Estate Qualifications</option>
+              </select>
+            </div>
+          </div>
+          <div class="input-box">
+            <span class="details">Tertiary Institution</span>
+            <input type="text" value="" name="tertiaryInstitution" placeholder="Enter Institution name" required>
+          </div>
+          <div class="input-box">
+            <span class="details"> CourseTitle</span>
+            <input type="text" value="" name="courseTitle" placeholder="Enter your Coursetitle" required>
+          </div>
+          <div class="input-box">
+            <span class="details"> Year of Completion</span>
+            <input type="text"  value="" name="yearOfCompletion" placeholder="Enter year of completion" required>
+          </div>
+
+          <div class="input-box">
+            <span class="details">Tertiary Institution</span>
+            <input type="text" value="" name="tertiaryInstitutionTwo" placeholder="Enter Institution name" required>
+          </div>
+          <div class="input-box">
+            <span class="details"> CourseTitle</span>
+            <input type="text" value="" name="courseTitleTwo" placeholder="Enter your Coursetitle" required>
+          </div>
+          <div class="input-box">
+            <span class="details"> Year of Completion</span>
+            <input type="text" name="yearOfCompletionTwo" value="" placeholder="Enter year of completion" required>
+          </div>
+        
+
+        <div style="width: 100%;">
+          <div>Employement History</div>
+        </div>
+        <div class="input-box">
+          <span class="details">Organization</span>
+          <input type="text" name="employmentOrganization" placeholder="Enter Organization name" required>
+        </div>  <div class="input-box">
+          <span class="details">Position</span>
+          <input type="text" name="employmentPosition" value="" placeholder="Enter your position" required>
+        </div> 
+         <div class="input-box">
+          <span class="details">Period</span>
+          <input type="text" name="employmentPeriod" value="" placeholder="Enter period you worked" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Type of Work</span>
+          <input type="text" value="" name="typeOfWork" placeholder="Enter type of work" required>
+        </div>
+       
+        <div class="input-box"></div>
+        <div class="input-box"></div>
+
+        <div class="input-box">
+          <span class="details">Organization</span>
+          <input type="text"  value="" name="employmentOrganizationTwo" placeholder="Enter Organization name" required>
+        </div>  <div class="input-box">
+          <span class="details">Position</span>
+          <input type="text"  value="" name="employmentPositionTwo" placeholder="Enter your position" required>
+        </div>  <div class="input-box">
+          <span class="details">Period</span>
+          <input type="text" value="" name="employmentPeriodTwo" placeholder="Enter period you worked" required>
+        </div>
+
+        <div class="input-box">
+          <span class="details">Type of Work</span>
+          <input type="text"  value="" name="typeOfWorkTwo" placeholder="Enter type of work" required>
+        </div>
+
+        <div style="width: 100%;">
+          <div> Principal Areas of Work</div>
+        </div>
+
+        <div class="input-box">
+          <span class="details"></span>
+          <select id="select" name="principleAreasOfWork">
+            <option value="">Select Area of Work</option>
+            <option value="Property Management">Property Management</option>
+            <option value="Sales, Lease and Negotiation">Sales, Lease and Negotiation</option>
+            <option value="Auctioneering">Auctioneering</option>
+            <option value="Facilities Management">Facilities Management</option>
+            <option value="Property and Land Development">Property and Land Development</option>
+            <option value="Property Administration">Property Administration</option>
+            <option value="Property Research">Property Research</option>
+            <option value="Property Consultancy">Property Consultancy</option>
+            <option value="Valuation - Residential">Valuation - Residential</option>
+            <option value="Valuation - Residential">Valuation - Residential</option>
+            <option value="Valuation - Retail">Valuation - Retail</option>
+            <option value="Valuation - Hotel">Valuation - Hotel</option>
+            <option value="Property Finance">Property Finance</option>
+          </select>
+        </div>
+
+        <br/><br/><br/><br/>
+          
+
+        <div style="width: 100%;">
+          <div>Referees</div><br/>
+        </div>
+
+        <div class="input-box">
+          <span class="details">Full Names</span>
+          <input type="text" name="refereeName" value="" placeholder="Enter your name" required>
+        </div>
+
+        <div class="input-box">
+          <span class="details">Organization/Company</span>
+          <input type="text" name="refereeCompany" value="" placeholder="Enter referee's Organization" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Position</span>
+          <input type="text" name="refereePosition" value="" placeholder="Enter position" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Contacts</span>
+          <input type="text" name="refereeContact" value="" placeholder="Enter contact number" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Postal Address</span>
+          <input type="text" value="" name="refereePostalAddress" name="postalAddress" placeholder="Enter postal Address" required>
+        </div>
+        <div class="input-box"></div>
+
+          <br/><br/><br/><br/>
+          <br/>
+       
+        <div class="input-box">
+          <span class="details">Full Names</span>
+          <input type="text"  value="" name="refereeNameTwo" placeholder="Enter your name" required>
+        </div>
+
+        <div class="input-box">
+          <span class="details">Organization/Company</span>
+          <input type="text"  value="" name="refereeCompanyTwo" placeholder="Enter referee's Organization" required>
+        </div>
+        <div class="input-box">
+          <span class="details">Position</span>
+          <input type="text"  value="" name="refereePositionTwo" placeholder="Enter position" required>
+        </div>
+
+        <div class="input-box">
+          <span class="details">Contacts</span>
+          <input type="text"  value="" name="refereeContactTwo" placeholder="Enter contact number" required>
+        </div>
+
+        <div class="input-box">
+          <span class="details">Postal Address</span>
+          <input type="text" value="" name="refereePostalAddressTwo" placeholder="Enter postal Address" required>
+        </div>
+
+        <div class="input-box"></div>
+          
+        <div style="width: 100%;">
+         <span>Applicants Declaration</span><br/>
+         
+          <p>
+            <input type="checkbox" id="declaration" name="declaration" value="" required>
+            I agree, if admitted as a member of The Real Estate Institute Of Botswana, to be bound by the
+            Constitution and Regulations including all the Code of Conduct and Ethics, Practice Standards and
+            any other requirements adopted by the institute from time to time. 
+            </p>
+        </div>
+        <div style="width: 100%;">
+          <div class="input-box"></div>
+        </div> 
+       
+
+</div>
+          <div class="button">
+            <input type="submit" value="Apply">
+          </div>
+        </div>
+      </form>
+    </div>
+
+          {{> footer }}
+
+  </div>
+
+            <!-- end section -->
+        </main>
+        <!-- end main -->
+
+        </div>
+
+        <div id="btn-to-top-wrap">
+            <a id="btn-to-top" class="circled" href="javascript:void(0);" data-visible-offset="800"></a>
+        </div>
+
+       
+        <script>
+            window.jQuery || document.write('<script src="js/jquery-2.2.4.min.js"><\/script>')
+        </script>
+
+        <script type="text/javascript" src="js/main.min.js"></script>
+      
+
+       
+</body>
+
+<!-- Mirrored from demo.artureanec.com/html/agro/checkout.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 31 Aug 2020 12:45:46 GMT -->
+
+</html>

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "reib-website",
+  "private_key_id": "a99981103c05a69b0f7076e11ebee8c778fb2d8c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDeBblYSihZdUZv\n0QyUKGOQsYH7+1W0O4brR9HgKxdogYNq2CCTYbwkOTBD+Io9/zum16w4PtfS6WED\n1pOZVQd+pzUa9AKBi5a7flBdWqbUcKCkKGB3eVsZzag4OkwEbwLtS9V/iy5NU4VT\nK1rij8mk7L7XysuN9oYGktHR/jkGtSC4EdvLRWJRw33CKffTPsIbzn/vnmM8WBxZ\neJaqbQAhEgsdWhE1NhZhUvCsKC58g5Q2+56p3nWfAYrTNqfwTS4HMeu56OlthNhT\n+gwP20l9+MKraNP12r91j1xuSufALgvYVopNFXIrShLm5rCx4hG3Z7W+TwrtYsfJ\nn55xzvHTAgMBAAECggEAB+fBRTUCwcistN+HKKFVhjnjzHKTByNVdvwsK2StZTGz\nWbMPWeARgGKu5sSrO3DikVq9jZUjPyXDKA1UXRHLfgV7HRYSHsW3HL7vIpvPM+I8\nvguX/7kI9t69Ph9JRKElRAi+tddhUyyFo0P4bPe8sMwjMXDNlaTw+bvxj54TLrtk\nUBWRoLi+sPjteo6KavbVvq9Pt3xPRk2rh8eJRE9WLhRXUM+lvwAalkmOhucOl2R4\nAGKZZ/FQXdpIr/p0K09y5ZM3RIdaTgYOfVGT3CtHS1/X2nv9s6x1044YlaRMDSrG\nyo3F8P8hMSfyWsQlaNl2nG0cvfOYpNQIFS22u+D2EQKBgQDui5UpRt4ajakt3grn\nJQBzqam09b4rq6Or47o3gOo2u4mjPL+3ixGcvTESvZlKaknDXBeYdp1UOKNwludv\niS4na0PT4Lj63pcofQEYpdfd8OEBcPljXPnXXMsPpuFoHnvEbFIxv3x0zj6ewdJV\nIO3LuojxwolRpGI8ITBDU5fkQwKBgQDuRKKv9kruRs4SSuoGXiFEIZzupyd/aRtc\nt+OqtkC+mYgIhpfEEEuvhNmlReATB/Yxhb9ZrqZpEyODzJzgVZwtm2yMDjeTIa0R\nff5Agryp2P6bZgF+WObiuC3EcU43Hp22rtI16T/jKsiyNyBL4PGzGltRm4XPLgzJ\nnnlZTDcrMQKBgQCDEF4cF7vgiwTxFpaW+VWONyHvMzYReHSs9KpT5JjLCa9N6QrN\nJbO/kpNr4JBgupVcqTStqD45EAV8zuzJ821QazcRKt93tuUGcegwSq6YWsjFqfTc\nCzGainlnWCFwu471FS7z9mnDI650O7n82+LLlOm5K1GXceInd3S1CTDjUQKBgEPZ\nG5KLyc6MLwYaewWRLFvgTnXO93pajcYbPyNPfqRHx+rVmMXl9gdnByr++M2yiLKV\naWW6S/zDzGstisZ+2lhKV+CR89Vb05KVlB7+m4aqGeZaZ7Z4zlZlJ/M2aJVdjH+G\nzKk5YE3p0vicpf+1cF4V9UcJyFK0xENtcxSwlU0hAoGAc+zf4e15OPLYUv5jqSTG\n3/hK6JlAIVooDqP+9U7YdVwqyPaNqSju346CJxuMGOwKKhdJnTZQQM6MzB6yW12r\njJREJIPo+EpANcwsvGqIQ3U1A9ZGCQe8KJUSMW3SPlQ7uWpNJn3nPRFYzoA7uIqZ\nT5Ha/MmPgOsVJ2fFldVT5F4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "reib-web@reib-website.iam.gserviceaccount.com",
+  "client_id": "109830807525131990006",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reib-web%40reib-website.iam.gserviceaccount.com"
+}
