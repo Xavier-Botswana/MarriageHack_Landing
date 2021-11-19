@@ -2012,7 +2012,7 @@ a:hover {
     text-transform: uppercase;
     letter-spacing: 0;
     color: #333;
-    border: 2px solid #ff6f00;
+    border: 2px solid #ffffff;
     -webkit-border-radius: 30px;
     border-radius: 30px;
     -webkit-box-shadow: none;
@@ -2094,7 +2094,7 @@ a:hover {
 }
 
 .custom-btn.custom-btn--style-4 {
-    background-color: #ef7f28;
+    background-color: #61B0D2;
 }
 
 .custom-btn.custom-btn--style-4:focus,
