@@ -4,9 +4,11 @@
 <h1 align="center">
 Marriage Registration Portal-Hackathon Submission</h1>
 <h3 align="center"> 
-The Department of Civil and National Registration under the Ministry of Nationality, Immigration and Gender Affairs provide Marriage Registration, Property Instrument registration and Change of name services to the public.
+The process of Marriage Registration is both a tedious and long process entailing a lot of administrative tasks such as filling numerous forms, countless visits to various government offices to make registration payments and long registration queues. As a result, the client often has to do the aforementioned along with their prior obligations during government office hours. 
 
-The public have to visit the various Government offices to access these services. There are forms that needs to be completed, some need to be publicized/floated in notice boards throughout the country and the Government gazette. These services are only accessible during normal working hours. The marriage registration service requires payments through the revenue offices.
+Moreover, government officials are tasked with their own manual administrative work such as verification of applications, payment processing and updating the marriage registration notice board. In addition, this process has been prolonged further by the current COVID-19 pandemic.
+
+Henceforth, the need for a solution that provides a seamless process that enables stakeholders such as clients (those who are filling for registration) and Marriage Officers to carry out their respective obligations in a timely and cost-effective manner on one platform.
 </h3>  
 
 </br>
@@ -26,7 +28,6 @@ The public have to visit the various Government offices to access these services
      <li><a href="#research"> ➤ Research</a></li>
     <li><a href="#stack"> ➤ Stack</a></li>
     <li><a href="#demo"> ➤ Demo (API Architecture) </a></li>
-    <li><a href="#doc"> ➤ API/Developer Docummentation</a></li>
     <li><a href="#team"> ➤ Team</a></li>
     
   </ol>
@@ -39,28 +40,19 @@ The public have to visit the various Government offices to access these services
 <h2 id="problem-statement"> :pencil: Problem Statement</h2>
 
 <p align="justify"> 
-The Department of Civil and National Registration under the Ministry of Nationality, Immigration and Gender Affairs provide Marriage Registration, Property Instrument registration and Change of name services to the public.
+The researchers interviewed 10 married couples, 5 of which got married before the pandemic and 5 who have tied the knot during the pandemic. 
 
-The public have to visit the various Government offices to access these services. There are forms that needs to be completed, some need to be publicized/floated in notice boards throughout the country and the Government gazette. These services are only accessible during normal working hours. The marriage registration service requires payments through the revenue offices.
+•	Long queues: Both Covid and Pre-Covid couples experienced long submission queues making it so that they spend more time at the District Administrators offices when they could be completing other tasks for the day. Time pre and post Covid averaged at 4 hours and 8 hours respectfully.
+•	Numerous office visits: Both individuals and their witnesses make approximately three (3) trips to various government office to complete the 3 different processes.
+•	Decentralization of processes: Moving from one department to another to execute various tasks as those registering have to move from the registration window to a separate window for payment.
+•	Covid Regulations: Limited number of clients are allowed in offices to reduce exposure and spread. 
 
-Marriage registration currently involves:
+With regards to administrative officers, these are the issues they faced:
 
-1.  Applicant visits the Government offices to register their intention to marry.
-2.  Payment of, P40.00 for normal /after banns marriage and P190,00 for Special marriage license.
-3.  Floating of marriage notice.
+•	Longer verification process – averaging at about 2 days per applicant - due to a higher number of marriage registration applications.
+•	Manual processes tend to increase turn-around time by approximately 55%, especially during peak registration seasons.
+•	Due to manual processes, officer’s time is restricted to repetitive tasks rather than important executive tasks.
 
-Property Instrument registration entails:
-
-1.  Signing of the property instrument before solemnization.
-2.  Registration of the instrument at the Deeds Registry within 9 days for validity.
-
-Change of name service involves:
-
-1.  Applicant visits Government offices to complete Change of name form.
-2.  The application will then be processed and publicised in the Government Gazette for 30 days.
-3.  Authorisation/Approval of change of name.
- 
-All the above services are currently done manually. This is time consuming and costly for both the Government of Botswana and the general public. Physical access to these services limit their availability and accessibility. The manual processing is inefficient resulting in backlogs, loss of information and prone to errors. Additionally, the publicizing and communication related to these processes is not efficient and is limited.
 </p>
 
 
@@ -81,6 +73,15 @@ All the above services are currently done manually. This is time consuming and c
   Findings
   
 <p align="justify"> 
+How Others Have Solved the Problem
+In relation to South Africa, accessibility of Verification of Marriage Status forms has been made available online for filling and submission. In addition, the SMS platform is also being used to check the verification of marriage status along with phone-call enquiry. This reduces the public having to go to government offices to complete the different processes. 
+
+Our Solution
+The API built within our solution, this will allow for online marriage registration through the availability of online forms, the upload of support documents, execution of online payment processing, remote management of objections and applications in real-time which will consequently ensure a faster and seamless experience for both the client and administrative officer. The solution features a modular architecture and thus can provide services on mobile applications, web applications, Facebook and WhatsApp chatbot and lastly IOT devices, making it more accessible and allowing for ease of use with both a web and mobile usage.
+
+
+Lessons Learnt
+During information and data collection processes, the researchers found that the interviewees seek more convenience and time are a top priority for them as they have daily tasks to be completed, such as going to work. In addition, with Covid, more now would like to limit their movement. This has led to the need for services to be accessed online and reduce the need for physical attendance. With the increase in digitization of other services such as banking and retail, the preference for accessing and completing tasks and services online has increased the appetite for online services by the public.
 
 </p>
 
