@@ -76,7 +76,7 @@ With regards to administrative officers, these are the issues they faced:
 How Others Have Solved the Problem
 In relation to South Africa, accessibility of Verification of Marriage Status forms has been made available online for filling and submission. In addition, the SMS platform is also being used to check the verification of marriage status along with phone-call enquiry. This reduces the public having to go to government offices to complete the different processes. 
 
-Our Solution
+<h4>Our Solution</h4>
 The API built within our solution, this will allow for online marriage registration through the availability of online forms, the upload of support documents, execution of online payment processing, remote management of objections and applications in real-time which will consequently ensure a faster and seamless experience for both the client and administrative officer. The solution features a modular architecture and thus can provide services on mobile applications, web applications, Facebook and WhatsApp chatbot and lastly IOT devices, making it more accessible and allowing for ease of use with both a web and mobile usage.
 
 
