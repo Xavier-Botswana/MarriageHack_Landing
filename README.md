@@ -160,7 +160,7 @@ _Developer Documentation. Please refer to the [Link](https://documenter.getpostm
 </p> -->
 
 <p align="center"> 
-  <img src="API/15.png" alt="smbots" width="70%" height="70%">
+  <img src="images/dd.png" alt="smbots" width="70%" height="70%">
 </p>
 
 
