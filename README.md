@@ -42,16 +42,16 @@ Henceforth, the need for a solution that provides a seamless process that enable
 <p align="justify"> 
 The researchers interviewed 10 married couples, 5 of which got married before the pandemic and 5 who have tied the knot during the pandemic. 
 
-•	Long queues: Both Covid and Pre-Covid couples experienced long submission queues making it so that they spend more time at the District Administrators offices when they could be completing other tasks for the day. Time pre and post Covid averaged at 4 hours and 8 hours respectfully.
-•	Numerous office visits: Both individuals and their witnesses make approximately three (3) trips to various government office to complete the 3 different processes.
-•	Decentralization of processes: Moving from one department to another to execute various tasks as those registering have to move from the registration window to a separate window for payment.
-•	Covid Regulations: Limited number of clients are allowed in offices to reduce exposure and spread. 
+*	Long queues: Both Covid and Pre-Covid couples experienced long submission queues making it so that they spend more time at the District Administrators offices when they could be completing other tasks for the day. Time pre and post Covid averaged at 4 hours and 8 hours respectfully.
+* Numerous office visits: Both individuals and their witnesses make approximately three (3) trips to various government office to complete the 3 different processes.
+* Decentralization of processes: Moving from one department to another to execute various tasks as those registering have to move from the registration window to a separate window for payment.
+* Covid Regulations: Limited number of clients are allowed in offices to reduce exposure and spread. 
 
 With regards to administrative officers, these are the issues they faced:
 
-•	Longer verification process – averaging at about 2 days per applicant - due to a higher number of marriage registration applications.
-•	Manual processes tend to increase turn-around time by approximately 55%, especially during peak registration seasons.
-•	Due to manual processes, officer’s time is restricted to repetitive tasks rather than important executive tasks.
+* Longer verification process – averaging at about 2 days per applicant - due to a higher number of marriage registration applications.
+* Manual processes tend to increase turn-around time by approximately 55%, especially during peak registration seasons.
+*	Due to manual processes, officer’s time is restricted to repetitive tasks rather than important executive tasks.
 
 </p>
 
@@ -70,7 +70,7 @@ With regards to administrative officers, these are the issues they faced:
 <!-- _Developer Documentation. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC2GTyP)_ -->
 
 <p> 
-  Findings
+<h4>Findings</h4>
   
 <p align="justify"> 
 How Others Have Solved the Problem
@@ -80,7 +80,7 @@ In relation to South Africa, accessibility of Verification of Marriage Status fo
 The API built within our solution, this will allow for online marriage registration through the availability of online forms, the upload of support documents, execution of online payment processing, remote management of objections and applications in real-time which will consequently ensure a faster and seamless experience for both the client and administrative officer. The solution features a modular architecture and thus can provide services on mobile applications, web applications, Facebook and WhatsApp chatbot and lastly IOT devices, making it more accessible and allowing for ease of use with both a web and mobile usage.
 
 
-Lessons Learnt
+<h4>Lessons Learnt</h4>
 During information and data collection processes, the researchers found that the interviewees seek more convenience and time are a top priority for them as they have daily tasks to be completed, such as going to work. In addition, with Covid, more now would like to limit their movement. This has led to the need for services to be accessed online and reduce the need for physical attendance. With the increase in digitization of other services such as banking and retail, the preference for accessing and completing tasks and services online has increased the appetite for online services by the public.
 
 </p>
