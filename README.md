@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="images/logo.png" alt="X Logo" width="80px" height="80px">
+  <img src="images/logo.png" alt="X Logo" width="100px" height="100px">
 </p>
 <h1 align="center">
 Marriage Registration Portal-Hackathon Submission</h1>
