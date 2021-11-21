@@ -122,7 +122,7 @@ The stack used to build this project:
 <!-- _Architecture Demonstration . Please refer to the [Link](https://youtu.be/TU-ylUORo4c)_ -->
 
 <p> 
-  Portal Screens
+  Portal Screens [Admin]
   
 <p align="center"> 
   <img src="dash.jpg" alt="smbots" width="70%" height="70%">
@@ -195,7 +195,8 @@ The stack used to build this project:
 <!-- tutorial-->
 <h2 id="tut"> :computer: How to get Started </h2>
 
-_Web link. Please refer to the [Link] and following the instruction below (https://documenter.getpostman.com/view/12221940/UVC3jStF)_
+_Web link. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC3jStF)_  and following the instruction below 
+
 
 <h4>Getting Started As Administration</h4>
 
