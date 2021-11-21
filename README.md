@@ -189,7 +189,7 @@ The stack used to build this project:
 <!-- tutorial-->
 <h2 id="tut"> :computer: How to get Started </h2>
 
-_Web link. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC3jStF)_  and following the instruction below 
+_Web link. Please refer to the [Link](​https://marriage-registration-1e7e8.web.app/auth)_  and following the instruction below 
 
 
 <h4>Getting Started As Administration</h4>
