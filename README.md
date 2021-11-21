@@ -2,8 +2,28 @@
   <img src="images/logo.png" alt="X Logo" width="150px" height="150px">
 </p>
 <h1 align="center">
+
+<!-- TABLE OF CONTENTS -->
+<h2 id="table-of-contents"> :book: Structure</h2>
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#introduction"> ➤ Introduction</a></li>
+    <li><a href="#problem-statement"> ➤ Problem Statement</a></li>
+    <li><a href="#our-solution"> ➤ Our Solution</a></li>
+    <li><a href="#research"> ➤ Research</a></li>
+    <li><a href="#stack"> ➤ Stack</a></li>
+    <li><a href="#demo"> ➤ Demo (Architecture) </a></li>
+    <li><a href="#team"> ➤ Team</a></li>
+    
+  </ol>
+</details>
+
+<!-- Introduction -->
+
 Marriage Registration Portal-Hackathon Submission</h1>
-<h3 align="center"> 
+<h3 id="#introduction" align="center"> 
 The process of Marriage Registration is both a tedious and long process entailing a lot of administrative tasks such as filling numerous forms, countless visits to various government offices to make registration payments and long registration queues. As a result, the client often has to do the aforementioned along with their prior obligations during government office hours. 
 </br>
 Moreover, government officials are tasked with their own manual administrative work such as verification of applications, payment processing and updating the marriage registration notice board. In addition, this process has been prolonged further by the current COVID-19 pandemic.
@@ -18,20 +38,7 @@ Henceforth, the need for a solution that provides a seamless process that enable
 
 
 
-<!-- TABLE OF CONTENTS -->
-<h2 id="table-of-contents"> :book: Structure</h2>
 
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#problem-statement"> ➤ Problem Statement</a></li>
-     <li><a href="#research"> ➤ Research</a></li>
-    <li><a href="#stack"> ➤ Stack</a></li>
-    <li><a href="#demo"> ➤ Demo (Architecture) </a></li>
-    <li><a href="#team"> ➤ Team</a></li>
-    
-  </ol>
-</details>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -55,6 +62,36 @@ With regards to administrative officers, these are the issues they faced:
 
 </p>
 
+<!-- Solution -->
+<h2 id="our-solution"> :computer: Our Solution </h2>
+
+_Web link. Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app/auth)_  and following the instruction below 
+
+
+<h4>Getting Started As Administration</h4>
+
+1. Login to the platform using the following credentials
+- email: `prochivia@gmail.com`
+- password: `test123`
+2. Navigate to the preferred Tab (Dashboard, Intention to Marry, Marriage Notice)
+- Dashboard - This page shows the platform's aggregated performance metrics 
+- Intention to Marry Application - User's applications can be reviewed, processed & published in real-time on this page.
+- Marriage Notice - This where all the notices of marriage are posted for 30 days.
+
+<h4>Getting Started As User</h4>
+
+1. Login to the platform using the following credentials
+- email: `user@gmail.com`
+- password: `test123`
+2. Select anyone of the 4 services; 
+- Intention of Marriage 
+- Floated Marriage 
+- Property Instrument Registration
+- Change of Names
+3. Start filling in the appropriate information
+4. Pay the processing fees when prompted
+5. Submit your request
+6. Await application processing & publishing in the Government Gazette for 30 days
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -129,7 +166,7 @@ The stack used to build this project:
   <img src="notice.jpg" alt="smbots" width="70%" height="70%">
 </p>
 
-
+_Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app/auth)_ to access the web portal. The credentials are on the <li><a href="#our-solution"> ➤ Our Solution</a></li> section above.
  
  
  <!-- <a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a> -->
@@ -142,21 +179,21 @@ The stack used to build this project:
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- analytics-->
-<h2 id="doc"> 📋: Developer Documentation </h2>
+<h2 id="doc"> 📋: Link to the code-base </h2>
 
 <!-- _Developer Documentation. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC3jStF)_ -->
 
 <p> 
-  Developer Documentation
+  Code-Base
 
 <p align="center"> 
   <img src="images/dd.png" alt="smbots" width="70%" height="70%">
 </p>
 
-
+_Please refer to the [Link](https://github.com/Xavier-Botswana/MarriageRegistration.git)_ to access the code-base
  
- 
- <a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a>
+<!--  
+ <a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a> -->
 
 
  
@@ -183,40 +220,6 @@ The stack used to build this project:
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-
-<!-- tutorial-->
-<h2 id="tut"> :computer: How to get Started </h2>
-
-_Web link. Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app/auth)_  and following the instruction below 
-
-
-<h4>Getting Started As Administration</h4>
-
-1. Login to the platform using the following credentials
-- email: `prochivia@gmail.com`
-- password: `test123`
-2. Navigate to the preferred Tab (Dashboard, Intention to Marry, Marriage Notice)
-- Dashboard - This page shows the platform's aggregated performance metrics 
-- Intention to Marry Application - User's applications can be reviewed, processed & published in real-time on this page.
-- Marriage Notice - This where all the notices of marriage are posted for 30 days.
-
-<h4>Getting Started As User</h4>
-
-1. Login to the platform using the following credentials
-- email: `user@gmail.com`
-- password: `test123`
-2. Select anyone of the 4 services; 
-- Intention of Marriage 
-- Floated Marriage 
-- Property Instrument Registration
-- Change of Names
-3. Start filling in the appropriate information
-4. Pay the processing fees when prompted
-5. Submit your request
-6. Await application processing & publishing in the Government Gazette for 30 days
-
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
