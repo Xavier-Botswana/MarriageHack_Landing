@@ -65,7 +65,7 @@ With regards to administrative officers, these are the issues they faced:
 <!-- Solution -->
 <h2 id="our-solution"> :computer: Our Solution </h2>
 
-_Web link. Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app/auth)_  and following the instruction below 
+_Web link. Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app/auth)_  and follow the instructions below 
 
 
 <h4>Getting Started As Administration</h4>
@@ -104,8 +104,6 @@ _Web link. Please refer to the [Link] (​https://marriage-registration-1e7e8.we
 <!-- analytics-->
 <h2 id="research"> 📋: Research Findings</h2>
 
-<!-- _Developer Documentation. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC2GTyP)_ -->
-
 <p> 
 <h4>Findings</h4>
   
@@ -140,6 +138,7 @@ The stack used to build this project:
 * MongoDB (opensource database)
 * Postman(Testing & creating Developer Docummentation)
 
+_Please refer to the [Link](https://github.com/Xavier-Botswana/MarriageRegistration.git)_ to access the code-base
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
