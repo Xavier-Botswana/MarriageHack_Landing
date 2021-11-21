@@ -27,7 +27,7 @@ Henceforth, the need for a solution that provides a seamless process that enable
     <li><a href="#problem-statement"> ➤ Problem Statement</a></li>
      <li><a href="#research"> ➤ Research</a></li>
     <li><a href="#stack"> ➤ Stack</a></li>
-    <li><a href="#demo"> ➤ Demo (API Architecture) </a></li>
+    <li><a href="#demo"> ➤ Demo (Architecture) </a></li>
     <li><a href="#team"> ➤ Team</a></li>
     
   </ol>
