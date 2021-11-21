@@ -42,8 +42,8 @@ Henceforth, the need for a solution that provides a seamless process that enable
 <p align="justify"> 
 The researchers interviewed 10 married couples, 5 of which got married before the pandemic and 5 who have tied the knot during the pandemic. 
 
-*	_Long queues_: Both Covid and Pre-Covid couples experienced long submission queues making it so that they spend more time at the District Administrators offices when they could be completing other tasks for the day. Time pre and post Covid averaged at 4 hours and 8 hours respectfully.
-* _Numerous office visits_: Both individuals and their witnesses make approximately three (3) trips to various government office to complete the 3 different processes.
+*	*Long queues*: Both Covid and Pre-Covid couples experienced long submission queues making it so that they spend more time at the District Administrators offices when they could be completing other tasks for the day. Time pre and post Covid averaged at 4 hours and 8 hours respectfully.
+* Numerous office visits: Both individuals and their witnesses make approximately three (3) trips to various government office to complete the 3 different processes.
 * _Decentralization of processes_: Moving from one department to another to execute various tasks as those registering have to move from the registration window to a separate window for payment.
 * _Covid Regulations_: Limited number of clients are allowed in offices to reduce exposure and spread. 
 
