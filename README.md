@@ -154,13 +154,6 @@ The stack used to build this project:
 
 <p> 
   Developer Documentation
-  
-<!-- <p align="center"> 
-  <img src="API/1.png" alt="smbots" width="70%" height="70%">
-</p> -->
-<!-- <p align="center"> 
-  <img src="API/2.png" alt="smbots" width="70%" height="70%">
-</p> -->
 
 <p align="center"> 
   <img src="images/dd.png" alt="smbots" width="70%" height="70%">
@@ -202,14 +195,25 @@ The stack used to build this project:
 <!-- tutorial-->
 <h2 id="tut"> :computer: How to get Started </h2>
 
-1. Click on the link to the web portal
-`https://github.com/Xavier-Botswana/MarriageRegistration.git`
-2. Login with your OneGov credentials
+_Web link. Please refer to the [Link] and following the instruction below (https://documenter.getpostman.com/view/12221940/UVC3jStF)_
+
+<h4>Getting Started As Administration</h4>
+
+1. Login to the platform using the following credentials
+- email: `prochivia@gmail.com`
+- password: `test123`
+2. 
+
+<h4>Getting Started As User</h4>
+
+1. Login to the platform using the following credentials
+- email: `user@gmail.com`
+- password: `test123`
+2. Select Intent of Marriage
 3. Start filling in the appropriate information
 4. Pay the processing fees when prompted
 5. Submit your request
-6. Await application processing & publishing in the Government Gazette for 30 days. 
-
+6. Await application processing & publishing in the Government Gazette for 30 d
 
 
 
