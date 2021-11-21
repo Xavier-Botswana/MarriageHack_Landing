@@ -65,7 +65,7 @@ With regards to administrative officers, these are the issues they faced:
 <!-- Solution -->
 <h2 id="our-solution"> :computer: Our Solution </h2>
 
-_Web link. Please refer to the [Link](​https://marriage-registration-1e7e8.web.app/auth)_  and following the instruction below 
+_Web link. Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app/auth)_  and following the instruction below 
 
 
 <h4>Getting Started As Administration</h4>
@@ -166,7 +166,7 @@ The stack used to build this project:
   <img src="notice.jpg" alt="smbots" width="70%" height="70%">
 </p>
 
-_Please refer to the [Link](​https://marriage-registration-1e7e8.web.app/auth)_ to access the web portal. The credentials are on the <a href="#our-solution"> ➤ Our Solution</a> section above.
+_Please refer to the [Link](​https://marriage-registration-1e7e8.web.app/auth)_ to access the web portal. The credentials are on the <a href="#our-solution">Our Solution</a> section above.
  
  
  <!-- <a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a> -->
