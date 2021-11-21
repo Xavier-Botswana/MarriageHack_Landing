@@ -119,7 +119,6 @@ The stack used to build this project:
 <!-- analytics-->
 <h2 id="demo"> 📋: Demo  </h2>
 
-<!-- _Architecture Demonstration . Please refer to the [Link](https://youtu.be/TU-ylUORo4c)_ -->
 
 <p> 
   Portal Screens [Admin]
@@ -203,7 +202,10 @@ _Web link. Please refer to the [Link](https://documenter.getpostman.com/view/122
 1. Login to the platform using the following credentials
 - email: `prochivia@gmail.com`
 - password: `test123`
-2. 
+2. Navigate to the preferred Tab (Dashboard, Intention to Marry, Marriage Notice)
+- Dashboard - This page shows the platform's aggregated performance metrics 
+- Intention to Marry Application - User's applications can be reviewed, processed & published in real-time on this page
+- Marriage Notice - This where all the notices of marriage are posted for 30 days
 
 <h4>Getting Started As User</h4>
 
@@ -214,7 +216,7 @@ _Web link. Please refer to the [Link](https://documenter.getpostman.com/view/122
 3. Start filling in the appropriate information
 4. Pay the processing fees when prompted
 5. Submit your request
-6. Await application processing & publishing in the Government Gazette for 30 d
+6. Await application processing & publishing in the Government Gazette for 30 days
 
 
 
