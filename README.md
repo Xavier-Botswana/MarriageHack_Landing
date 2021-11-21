@@ -125,14 +125,14 @@ The stack used to build this project:
   Portal Screens
   
 <p align="center"> 
-  <img src="images/dash.jpg" alt="smbots" width="70%" height="70%">
+  <img src="dash.jpg" alt="smbots" width="70%" height="70%">
 </p>
 <p align="center"> 
-  <img src="images/intention.jpg" alt="smbots" width="70%" height="70%">
+  <img src="intention.jpg" alt="smbots" width="70%" height="70%">
 </p>
 
 <p align="center"> 
-  <img src="images/notice.jpg" alt="smbots" width="70%" height="70%">
+  <img src="notice.jpg" alt="smbots" width="70%" height="70%">
 </p>
 
 
@@ -150,7 +150,7 @@ The stack used to build this project:
 <!-- analytics-->
 <h2 id="doc"> 📋: Developer Documentation </h2>
 
-_Developer Documentation. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC3jStF)_
+<!-- _Developer Documentation. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC3jStF)_ -->
 
 <p> 
   Developer Documentation
