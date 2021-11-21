@@ -186,7 +186,7 @@ _Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app/auth
   Code-Base
 
 <p align="center"> 
-  <img src="images/dd.png" alt="smbots" width="70%" height="70%">
+  <a href="https://github.com/Xavier-Botswana/MarriageRegistration.git"><img src="images/dd.png" alt="smbots" width="70%" height="70%"></a>
 </p>
 
 _Please refer to the [Link](https://github.com/Xavier-Botswana/MarriageRegistration.git)_ to access the code-base
