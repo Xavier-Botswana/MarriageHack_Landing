@@ -84,13 +84,8 @@ The API built within our solution, this will allow for online marriage registrat
 During information and data collection processes, the researchers found that the interviewees seek more convenience and time are a top priority for them as they have daily tasks to be completed, such as going to work. In addition, with Covid, more now would like to limit their movement. This has led to the need for services to be accessed online and reduce the need for physical attendance. With the increase in digitization of other services such as banking and retail, the preference for accessing and completing tasks and services online has increased the appetite for online services by the public.
 
 </p>
-
-
- 
  
  <!-- <a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a> -->
-
-
  
 </p>
 
@@ -212,7 +207,11 @@ _Web link. Please refer to the [Link](https://documenter.getpostman.com/view/122
 1. Login to the platform using the following credentials
 - email: `user@gmail.com`
 - password: `test123`
-2. Select anyone of the 4 services [Intention of Marriage, Floated Marriage, Property Instrument Registration & Change of Names]
+2. Select anyone of the 4 services; 
+- Intention of Marriage 
+- Floated Marriage 
+- Property Instrument Registration
+- Change of Names
 3. Start filling in the appropriate information
 4. Pay the processing fees when prompted
 5. Submit your request
