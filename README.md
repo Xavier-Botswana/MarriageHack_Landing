@@ -1,7 +1,7 @@
 <p align="center"> 
   <img src="images/logo.png" alt="X Logo" width="150px" height="150px">
 </p>
-<h1 align="center">
+
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Structure</h2>
@@ -22,7 +22,7 @@
 
 <!-- Introduction -->
 
-Marriage Registration Portal-Hackathon Submission</h1>
+<h1 align="center">Marriage Registration Portal-Hackathon Submission</h1>
 <h3 id="#introduction" align="center"> 
 The process of Marriage Registration is both a tedious and long process entailing a lot of administrative tasks such as filling numerous forms, countless visits to various government offices to make registration payments and long registration queues. As a result, the client often has to do the aforementioned along with their prior obligations during government office hours. 
 </br>
@@ -65,7 +65,7 @@ With regards to administrative officers, these are the issues they faced:
 <!-- Solution -->
 <h2 id="our-solution"> :computer: Our Solution </h2>
 
-_Web link. Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app/auth)_  and following the instruction below 
+_Web link. Please refer to the [Link](​https://marriage-registration-1e7e8.web.app/auth)_  and following the instruction below 
 
 
 <h4>Getting Started As Administration</h4>
@@ -166,7 +166,7 @@ The stack used to build this project:
   <img src="notice.jpg" alt="smbots" width="70%" height="70%">
 </p>
 
-_Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app/auth)_ to access the web portal. The credentials are on the <li><a href="#our-solution"> ➤ Our Solution</a></li> section above.
+_Please refer to the [Link](​https://marriage-registration-1e7e8.web.app/auth)_ to access the web portal. The credentials are on the <a href="#our-solution"> ➤ Our Solution</a> section above.
  
  
  <!-- <a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a> -->
