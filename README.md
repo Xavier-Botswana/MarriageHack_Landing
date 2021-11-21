@@ -104,6 +104,8 @@ During information and data collection processes, the researchers found that the
 <!--This project is written in Python and Javascript <br>-->
 The stack used to build this project:
 * Nodejs(endpoints)
+* Reactjs(frontend)
+* MongoDB (opensource database)
 * Postman(Testing & creating Developer Docummentation)
 
 
