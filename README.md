@@ -203,7 +203,7 @@ _Developer Documentation. Please refer to the [Link](https://documenter.getpostm
 <h2 id="tut"> :computer: How to get Started </h2>
 
 1. Click on the link to the web portal
-`https://github.com/Xavier-Botswana/MarriageHack_Landing.git`
+`https://github.com/Xavier-Botswana/MarriageRegistration.git`
 2. Login with your OneGov credentials
 3. Start filling in the appropriate information
 4. Pay the processing fees when prompted
