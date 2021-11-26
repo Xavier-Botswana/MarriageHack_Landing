@@ -165,7 +165,7 @@ _Please refer to the [Link](https://github.com/Xavier-Botswana/MarriageRegistrat
   <img src="notice.jpg" alt="smbots" width="70%" height="70%">
 </p>
 
-_Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app/auth)_ to access the web portal. The credentials are in the <a href="#our-solution">Our Solution</a> section above.
+_Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app)_ to access the web portal. The credentials are in the <a href="#our-solution">Our Solution</a> section above.
  
  
  <!-- <a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a> -->
