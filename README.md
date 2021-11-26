@@ -65,7 +65,7 @@ With regards to administrative officers, these are the issues they faced:
 <!-- Solution -->
 <h2 id="our-solution"> :computer: Our Solution </h2>
 
-_Web link. Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app/auth)_  and follow the instructions below 
+_Web link. Please refer to the [Link] (​https://marriage-registration-1e7e8.web.app)_  and follow the instructions below 
 
 
 <h4>Getting Started As Administration</h4>
